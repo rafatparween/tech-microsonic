@@ -39,9 +39,9 @@ const Footer = () => {
                         {[
                             { name: 'Terms and Conditions', path: '/term' },
                             { name: 'Privacy Policy', path: '/privacyPolicy' },
-                            { name: 'License Agreement', path: '/license-agreement' },
-                            { name: 'Copyright Information', path: '/copyright-information' },
-                            { name: 'Cookies Policy', path: '/cookies-policy' }
+                            { name: 'License Agreement', path: '/' },
+                            { name: 'Copyright Information', path: '/' },
+                            { name: 'Cookies Policy', path: '/' }
                         ].map(({ name, path }) => (
                             <Link
                                 key={name}
