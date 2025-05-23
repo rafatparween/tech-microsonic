@@ -1,3 +1,4 @@
+import JivoChat from "../JivoChat";
 import PageFooter from "./pages/PageFooter";
 import PageHeader from "./pages/PageHeader";
 import PageNavbar from "./pages/PageNavbar";
@@ -20,7 +21,12 @@ export default function Home() {
       <Troubleshoot/>
       <SupportTabs/>
       <PageFooter/>
+      <div className=" mt-[30px]">
+        <JivoChat/>
 
+
+      </div>
+      
        
       </>
     );
