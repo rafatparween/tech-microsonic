@@ -6,8 +6,8 @@ export default function Troubleshoot() {
   const router = useRouter(); 
 
   const handleSetupClick = () => {
-    // router.push('../service/Pages'); // Ensure the path is correct
-     router.push('/contact');
+    router.push('../service/Pages'); // Ensure the path is correct
+    //  router.push('/contact');
   };
   return (
     <div className="bg-white h-[430px] flex flex-col items-center justify-center px-4 py-10">
