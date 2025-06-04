@@ -10,7 +10,7 @@ export default function Printerissue() {
       },
       {
         image: '/printer3.svg',
-        title: '/Wireless printer issues'
+        title: 'Wireless printer issues'
       
       },
       {
