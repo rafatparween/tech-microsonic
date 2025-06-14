@@ -43,7 +43,7 @@ const Contact = () => {
                     <div>
                         <p className="text-lg font-bold">Email</p>
                         <p className="text-sm text-gray-500 mb-4">Our customer service team is available to assist you from Monday to Saturday.</p>
-                        <p className="mb-4">For inquiries, please reach us at <a href="mailto:customerservice@microsonic.in" className="text-blue-600">customerservice@microsonic.in</a>.</p>
+                        <p className="mb-4">For inquiries, please reach us at <a href="mailto:customerservice@123hpeasyprintsolutions.in" className="text-blue-600">customerservice@123hpeasyprintsolutions.in</a>.</p>
                         <button className="bg-black text-white py-2 px-4 rounded-md">Contact Us via Email</button>
                     </div>
                 </div>

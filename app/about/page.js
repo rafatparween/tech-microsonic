@@ -34,7 +34,7 @@ const About = () => {
                         animate={{ y: 0, opacity: 1 }}
                         transition={{ duration: 0.5, delay: 0.2 }}
                     >
-                        Micro Sonic Work is a leading technology solutions provider dedicated to helping businesses of all sizes achieve their digital transformation goals. Our team of experts specializes in delivering cutting-edge solutions in Digital Marketing, App Development, Web Designing & Development, Software Development, and Salesforce Development.
+                        123hpeasyprintsolutions is a leading technology solutions provider dedicated to helping businesses of all sizes achieve their digital transformation goals. Our team of experts specializes in delivering cutting-edge solutions in Digital Marketing, App Development, Web Designing & Development, Software Development, and Salesforce Development.
                     </motion.p>
                     <motion.p
                         className="text-gray-200 mb-6"
@@ -50,7 +50,7 @@ const About = () => {
                         animate={{ y: 0, opacity: 1 }}
                         transition={{ duration: 0.5, delay: 0.6 }}
                     >
-                        At Micro Sonic Work, we believe in building long-term partnerships with our clients. We work closely with you to understand your business needs, offering personalized solutions that align with your goals and drive success. Our collaborative approach ensures that we are not just a service provider, but a true partner in your journey.
+                        At 123hpeasyprintsolutions, we believe in building long-term partnerships with our clients. We work closely with you to understand your business needs, offering personalized solutions that align with your goals and drive success. Our collaborative approach ensures that we are not just a service provider, but a true partner in your journey.
                     </motion.p>
                     <motion.p
                         className="text-gray-200 mb-6"

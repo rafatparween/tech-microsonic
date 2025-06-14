@@ -38,7 +38,7 @@ const Footer = () => {
                     <div className="flex flex-col text-start mb-4 md:mb-0 text-[18px]">
                         {[
                             { name: 'Terms and Conditions', path: '/term' },
-                            { name: 'Privacy Policy', path: '/privacyPolicy' },
+                            { name: 'Privacy Policy', path: '/pr     ivacy' },
                             { name: 'Software Development', path: '/SoftwareDevelopment' },
                             { name: 'Copyright Information', path: '/' },
                             { name: 'Cookies Policy', path: '/' }
