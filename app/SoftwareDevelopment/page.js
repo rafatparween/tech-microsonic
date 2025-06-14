@@ -309,7 +309,7 @@ const SoftwareDevelopmentUI = () => {
         </div>
       )}
     </div>
-  );
+  )
 };
 
 export default SoftwareDevelopmentUI;
