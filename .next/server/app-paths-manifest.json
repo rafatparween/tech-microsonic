@@ -1,5 +1,6 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/SoftwareDevelopment/page": "app/SoftwareDevelopment/page.js"
+  "/SoftwareDevelopment/page": "app/SoftwareDevelopment/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }
